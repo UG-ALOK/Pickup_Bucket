@@ -26,7 +26,7 @@ PICKUP BUCKET is a Python-based website and network diagnostics toolkit designed
 Clone the repository:
 
 ```bash
-git clone https://codeberg.org/Firewall-Crusher/Pickup_Bucket.git
+git clone https://github.com/UG-ALOK/Pickup_Bucket.git
 ```
 ```bash
 cd Pickup_Bucket
